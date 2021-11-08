@@ -1,4 +1,4 @@
-### Welcome to my profile! :)
+# Welcome to my GitHub! 😺
 
 - 👨🏻‍🎓 I’m currently working on earning my diploma in IT Programming from NSCC, Marconi Campus.
 - 👾 I’m currently learning how to create a Space Invaders game using object-oriented principles in Java.
