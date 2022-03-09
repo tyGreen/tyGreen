@@ -11,7 +11,7 @@
 #### - 🍪 Fun fact: I'm also a professionally trained baker!
 
 <h3 align="left">Code In Action:</h3>
-<img src="spaceInvadersgif.gif" width="256"
+<img src="spaceInvadersgif.gif" width="256"/>
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
