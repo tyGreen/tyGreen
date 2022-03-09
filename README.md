@@ -13,7 +13,7 @@
 ### - 🍪 Fun fact: I'm also a professionally trained baker!
 
 <h3 align="left">Code In Action:</h3>
-<img src="spaceInvadersgif.gif" width="256"/>
+<img src="spaceInvadersgif.gif"/>
 <img src="blackjackAndroid.gif" width="256"/>
 
 
