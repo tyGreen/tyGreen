@@ -1,16 +1,16 @@
 
-<h1 align="center">Hello World 👋, I am:</h1>
+<h1 align="center">Hello World 👋🏻, I am:</h1>
 
 ![MasterHead](banner_gitHub.png)
 
 <h3 align="center">Aspiring full-stack developer eager to develop, test, and maintain intuitive and accessible user interfaces and experiences utilizing my ability to quickly learn and adapt to new technologies and dedication to lifelong learning.</h3>
 
-#### - 👨🏻‍🎓 I’m currently working on earning my diploma in IT Programming from NSCC, Marconi Campus.
-#### - 💖 I love Object-Oriented programming.
-#### - 💡 I’m seeking advice on creating a recipe conversion app using React JavaScript.
-#### - 👾 Ask me about my Space Invaders game!
-#### - ♂️ Pronouns: He/Him
-#### - 🍪 Fun fact: I'm also a professionally trained baker!
+### - 👨🏻‍🎓 I’m currently working on earning my diploma in IT Programming from NSCC, Marconi Campus.
+### - 💖 I love Object-Oriented programming.
+### - 💡 I’m seeking advice on creating a recipe conversion app using React JavaScript.
+### - 👾 Ask me about my Space Invaders game!
+### - ♂️ Pronouns: He/Him/His
+### - 🍪 Fun fact: I'm also a professionally trained baker!
 
 <h3 align="left">Code In Action:</h3>
 <img src="spaceInvadersgif.gif" width="256"/>
