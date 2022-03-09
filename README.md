@@ -14,7 +14,7 @@
 
 <h3 align="left">Code In Action:</h3>
 <img src="spaceInvadersgif.gif"/>
-<img src="blackjackAndroid.gif" width="256"/>
+<img src="blackjackAndroid.gif"/>
 
 
 <h3 align="left">Connect With Me:</h3>
