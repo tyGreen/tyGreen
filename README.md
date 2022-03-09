@@ -1,15 +1,15 @@
 <h1 align="center">Hello World 👋, I'm Ty Green</h1>
 <h3 align="center">Aspiring full-stack developer eager to develop, test, and maintain intuitive and accessible user interfaces and experiences utilizing my ability to quickly learn and adapt to new technologies and dedication to lifelong learning.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tygreen&label=Views&color=00ee00&style=flat" alt="tygreen" /> </p>
+
 #### - 👨🏻‍🎓 I’m currently working on earning my diploma in IT Programming from NSCC, Marconi Campus.
 #### - 💖 I love Object-Oriented programming.
 #### - 🤔 I’m seeking advice on creating a recipe conversion app using React JavaScript.
 #### - 👾 Ask me about my Space Invaders game!
 #### - 📫 How to reach me: on github!
 #### - ♂️ Pronouns: He/Him
-#### - 🧁 Fun fact: I'm also a professionally trained baker!
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tygreen&label=Views&color=00ee00&style=flat" alt="tygreen" /> </p>
+#### - 🍪 Fun fact: I'm also a professionally trained baker!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
