@@ -1,4 +1,8 @@
+
 <h1 align="center">Hello World 👋, I'm Ty Green</h1>
+
+[![MasterHead](banner_gitHub.png)
+
 <h3 align="center">Aspiring full-stack developer eager to develop, test, and maintain intuitive and accessible user interfaces and experiences utilizing my ability to quickly learn and adapt to new technologies and dedication to lifelong learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tygreen&label=Views&color=00ee00&style=flat" alt="tygreen" /> </p>
