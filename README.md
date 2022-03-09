@@ -1,7 +1,7 @@
 
-<h1 align="center">Hello World 👋, I'm Ty Green</h1>
+<h1 align="center">Hello World 👋, I am:</h1>
 
-[![MasterHead](banner_gitHub.png)
+![MasterHead](banner_gitHub.png)
 
 <h3 align="center">Aspiring full-stack developer eager to develop, test, and maintain intuitive and accessible user interfaces and experiences utilizing my ability to quickly learn and adapt to new technologies and dedication to lifelong learning.</h3>
 
